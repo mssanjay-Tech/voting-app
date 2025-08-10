@@ -1,0 +1,43 @@
+/* Royal page animations and accents */
+@keyframes fadeIn { from { opacity:0; transform: translateY(8px);} to {opacity:1; transform:none;} }
+@keyframes popIn { 0%{transform:scale(.95);opacity:0;} 100%{transform:none;opacity:1;} }
+
+.animate-fade-in { animation: fadeIn .45s ease both; }
+.animate-pop-in { animation: popIn .4s ease both; }
+
+/* Candidate card */
+.candidate-card {
+  transition: transform .28s ease, box-shadow .28s ease;
+}
+.candidate-card:hover {
+  box-shadow: 0 20px 40px rgba(2,6,23,.25);
+  transform: translateY(-6px) scale(1.02);
+}
+
+/* Glow button */
+.glow-button {
+  position: relative;
+  overflow: hidden;
+}
+.glow-button::after {
+  content: "";
+  position: absolute;
+  left: -60%;
+  top: -40%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at 30% 30%, rgba(255,230,128,0.25), transparent 10%),
+              linear-gradient(90deg, rgba(255,230,128,0.06), rgba(255,255,255,0));
+  transform: rotate(25deg);
+  transition: left .8s ease;
+}
+.glow-button:hover::after { left: 40%; }
+
+/* Success box */
+.success-box {
+  box-shadow: 0 20px 50px rgba(2,6,23,.25);
+  border-radius: 12px;
+}
+
+/* small helpers */
+img.rounded-avatar { border-radius: 9999px; }

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Admin Login</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="bg-gradient-to-br from-slate-900 to-indigo-900 min-h-screen flex items-center justify-center">
+
+  <div class="bg-white text-gray-900 rounded-2xl shadow-2xl p-8 w-full max-w-md">
+    <h1 class="text-3xl font-bold text-center text-yellow-500 mb-6">🛡️ Admin Login</h1>
+
+    {% if error %}
+      <div class="bg-red-100 text-red-700 p-3 rounded mb-4 text-sm text-center">
+        {{ error }}
+      </div>
+    {% endif %}
+
+    <form method="POST" class="space-y-5">
+      <div>
+        <label for="username" class="block text-sm font-semibold mb-1">Username</label>
+        <input type="text" id="username" name="username" 
+               class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
+               placeholder="Enter admin username" required>
+      </div>
+
+      <div>
+        <label for="password" class="block text-sm font-semibold mb-1">Password</label>
+        <input type="password" id="password" name="password" 
+               class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-indigo-500 outline-none"
+               placeholder="Enter admin password" required>
+      </div>
+
+      <button type="submit" 
+              class="w-full bg-indigo-700 hover:bg-indigo-600 text-white font-bold py-2 rounded-lg transition">
+        Login
+      </button>
+    </form>
+
+    <div class="text-center mt-6">
+      <a href="/" class="text-indigo-600 hover:underline text-sm">← Back to Home</a>
+    </div>
+  </div>
+
+</body>
+</html>

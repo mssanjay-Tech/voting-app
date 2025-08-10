@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "VIGNESH KUMAR M",
+        "position": "President",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "4th",
+        "image": "images/vickey.jpg"
+    },
+    {
+        "id": 2,
+        "name": "MURALI KARTHIK T",
+        "position": "President",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "4th",
+        "image": "images/murali karthi.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ADHARSH K",
+        "position": "President",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "4th",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 4,
+        "name": "LENIN N",
+        "position": "Vice President",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 5,
+        "name": "JEDAN J",
+        "position": "Vice President",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 6,
+        "name": "VARSHINI S",
+        "position": "Vice President",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 7,
+        "name": "PAUL S",
+        "position": "Vice President",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 8,
+        "name": "ABIRAMI V",
+        "position": "Secretary",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "4th",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 9,
+        "name": "VASANTHA KUMAR S",
+        "position": "Secretary",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "4th",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 10,
+        "name": "SANJAY PALANI",
+        "position": "Vice Secretary",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 11,
+        "name": "VISHALINI R",
+        "position": "Vice Secretary",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 12,
+        "name": "SANJAY PANDIAN",
+        "position": "Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 13,
+        "name": "SHOBANA R",
+        "position": "Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "3rd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 14,
+        "name": "SHAKTHI S",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 15,
+        "name": "GIRIJA P",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 16,
+        "name": "THILAKSHANA M",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 17,
+        "name": "SWETHA S",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 18,
+        "name": "RADHIMEENA R",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 19,
+        "name": "LOGESHWARAN T",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 20,
+        "name": "JAYAKUMAR R",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    },
+    {
+        "id": 21,
+        "name": "SANJAY SUKUMAR P",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/naruto.jpg"
+    }
+]
