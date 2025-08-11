@@ -118,7 +118,7 @@
         "position": "Vice Treasurer",
         "department": "INFORMATION TECHNOLOGY",
         "year": "2nd",
-        "image": "images/naruto.jpg"
+        "image": "images/thilakshana.jpg"
     },
     {
         "id": 16,
@@ -142,7 +142,7 @@
         "position": "Vice Treasurer",
         "department": "INFORMATION TECHNOLOGY",
         "year": "2nd",
-        "image": "images/naruto.jpg"
+        "image": "images/logesh.jpg"
     },
     {
         "id": 19,
@@ -150,7 +150,7 @@
         "position": "Vice Treasurer",
         "department": "INFORMATION TECHNOLOGY",
         "year": "2nd",
-        "image": "images/naruto.jpg"
+        "image": "images/jayakumar.jpg"
     },
     {
         "id": 20,
@@ -158,6 +158,6 @@
         "position": "Vice Treasurer",
         "department": "INFORMATION TECHNOLOGY",
         "year": "2nd",
-        "image": "images/naruto.jpg"
+        "image": "images/sanjaysukumar.jpg"
     }
 ]
