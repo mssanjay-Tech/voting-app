@@ -159,5 +159,21 @@
         "department": "INFORMATION TECHNOLOGY",
         "year": "2nd",
         "image": "images/sanjaysukumar.jpg"
+    },
+    {
+        "id": 21,
+        "name": "MUGESH S",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/mugesh.jpg"
+    },
+    {
+        "id": 22,
+        "name": "TAMILALAGAN P",
+        "position": "Vice Treasurer",
+        "department": "INFORMATION TECHNOLOGY",
+        "year": "2nd",
+        "image": "images/tamil.jpg"
     }
 ]
